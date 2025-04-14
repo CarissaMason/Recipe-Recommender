@@ -11,7 +11,7 @@ A user-friendly web app that recommends recipes based on the ingredients you hav
 
 ## App
 
-Check out the app here [Recipe Recommender App](https://your-streamlit-url.streamlit.app)
+Check out the app here [Recipe Recommender App](https://recipe-recommender-r9sx4zzpppqkg8gzdah2pv.streamlit.app/)
 
 ---
 
